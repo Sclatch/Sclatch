@@ -5,7 +5,7 @@
   <h1>My name is Kevin.</h1>
   <img src="https://img.shields.io/badge/PRONOUNS-HE%2FHIM-36BCF7?style=for-the-badge&labelColor=0d1117" alt="Pronouns: he/him" />
   <br/><br/>
-
+  
   <!-- Intro -->
   <p>
     I'm just someone who loves messing around with <b>servers</b>, <b>infrastructure</b>, <b>containers</b>, and <b>web stuff</b>.
@@ -60,7 +60,6 @@
   <a href="mailto:ck.kevinchandra@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" width="48" />
   </a>
-  <br/><br/>
   
   <!-- Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer" alt="Footer banner" width="100%" />
